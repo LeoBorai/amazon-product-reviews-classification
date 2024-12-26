@@ -1,13 +1,22 @@
+---
+title: amazon-reviews-classification
+emoji: 🐠
+colorFrom: gray
+colorTo: purple
+sdk: gradio
+sdk_version: 5.20.1
+app_file: app.py
+pinned: false
+license: mit
+short_description: Applying Reviews Classification using Logistic Regression
+---
+
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <h1 align="center">Amazon Product Reviews Classification</h1>
+  <h4 align="center">
+    Performing Sentiment Analysis on Amazon Product Reviews using Logistic Regression
+  </h4>
 </div>
-
-## Motivation
-
-Spin up Machine Learning projects with ease, avoiding a virtual environment
-setup by using Docker, extending compatibility for collaboration by having
-a operative system agnostic environment.
 
 ## Run Locally
 

@@ -1,13 +1,9 @@
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <h1 align="center">Amazon Product Reviews Classification</h1>
+  <h4 align="center">
+    Performing Sentiment Analysis on Amazon Product Reviews using Logistic Regression
+  </h4>
 </div>
-
-## Motivation
-
-Spin up Machine Learning projects with ease, avoiding a virtual environment
-setup by using Docker, extending compatibility for collaboration by having
-a operative system agnostic environment.
 
 ## Run Locally
 

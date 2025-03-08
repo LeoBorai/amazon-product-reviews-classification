@@ -1,14 +1,14 @@
 ---
 title: amazon-reviews-classification
-emoji: 🐠
-colorFrom: gray
+emoji: 🗣️
+colorFrom: yellow
 colorTo: purple
 sdk: gradio
 sdk_version: 5.20.1
 app_file: app.py
 pinned: false
 license: mit
-short_description: Applying Reviews Classification using Logistic Regression
+short_description: Sentiment Analysis via Logistic Regression
 ---
 
 <div>

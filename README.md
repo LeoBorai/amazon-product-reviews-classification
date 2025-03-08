@@ -18,6 +18,11 @@ short_description: Sentiment Analysis via Logistic Regression
   </h4>
 </div>
 
+## Archived and Moved to HuggingFace
+
+This repository has been moved to HuggingFace as it has tools for ML/AI projects.
+Visit it here: [Amazon Reviews Classification](https://huggingface.co/spaces/LeoBorai/amazon-reviews-classification)
+
 ## Run Locally
 
 Build an run containers using `docker compose`

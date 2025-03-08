@@ -12,7 +12,7 @@ def perform(text):
 
   return score
 
-demo = gr.Interface(fn=predict,
+demo = gr.Interface(fn=perform,
   inputs=[gr.Textbox(label="Message")],
   outputs=gr.Textbox(label="Score"))
 
